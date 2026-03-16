@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Maor%20Refaeli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20|%20DevOps%20Engineer&descSize=20&descAlignY=55&descColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Maor%20Refaeli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=20&descAlignY=55&descColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
@@ -24,8 +24,7 @@
 
 ---
 
-<h3 align="center">6+ years in Test Automation, CI/CD & Data Integrity across cloud environments</h3>
-<h4 align="center">B.Sc. Computer Science</h4>
+<h3 align="center">6+ years in QA Automation, CI/CD & Cloud Infrastructure</h3>
 
 ---
 
