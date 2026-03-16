@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=refm570-ops&style=for-the-badge&color=6C63FF" />
-</p>
-
 ---
 
 <h3 align="center">6+ years in QA Automation, CI/CD & Cloud Infrastructure</h3>
