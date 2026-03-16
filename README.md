@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Maor+Refaeli;Automation+%7C+DevOps+Engineer" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Maor%20Refaeli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20|%20DevOps%20Engineer&descSize=20&descAlignY=55&descColor=ffffff" width="100%" />
+</p>
 
 <p align="center">
   <b>Senior Automation Engineer / SDET | Expanding into DevOps & Infrastructure</b>
@@ -25,7 +25,7 @@
 ---
 
 <h3 align="center">6+ years in Test Automation, CI/CD & Data Integrity across cloud environments</h3>
-<h4 align="center">Previously at Dynamic Yield (Mastercard) · B.Sc. Computer Science · Based in Israel 🇮🇱</h4>
+<h4 align="center">B.Sc. Computer Science</h4>
 
 ---
 
