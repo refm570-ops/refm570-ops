@@ -25,7 +25,7 @@
 ---
 
 <h3 align="center">6+ years in Test Automation, CI/CD & Data Integrity across cloud environments</h3>
-<h4 align="center">Previously at Dynamic Yield (Mastercard) · CS Student · Based in Israel 🇮🇱</h4>
+<h4 align="center">Previously at Dynamic Yield (Mastercard) · B.Sc. Computer Science · Based in Israel 🇮🇱</h4>
 
 ---
 
@@ -95,24 +95,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=refm570-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refm570-ops&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=refm570-ops&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🔭 What I'm Up To
 
 - 🚀 **Training in DevOps** — Kubernetes, Terraform, GitOps, CI/CD pipelines
 - 🧪 **Building side projects** — trading signal systems, AI-powered educational apps
-- 🎓 **Completing CS degree** — Open University of Israel
 
 ---
 
