@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Senior Automation Engineer / SDET | Expanding into DevOps & Infrastructure</b>
+  <b>Senior Automation Engineer / SDET | DevOps & Infrastructure</b>
 </p>
 
 <p align="center">
@@ -86,12 +86,12 @@
 
 ### 🔭 What I'm Up To
 
-- 🚀 **Training in DevOps** — Kubernetes, Terraform, GitOps, CI/CD pipelines
+- 🚀 **DevOps Engineering** — Kubernetes, Terraform, GitOps, CI/CD pipelines
 - 🧪 **Building side projects** — trading signal systems, AI-powered educational apps
 
 ---
 
 <p align="center">
-  <b>Quality isn't a phase — it's a mindset.</b><br/>
-  <i>I don't just find bugs. I build systems that prevent them, pipelines that catch them,<br/>and frameworks that make testing boring (in the best way).</i>
+  <b>I like things that just work.</b><br/>
+  <i>Good tests, solid pipelines, infra that doesn't wake you up at 3am.</i>
 </p>
